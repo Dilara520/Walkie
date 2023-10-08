@@ -1,16 +1,21 @@
-# walkie
+# Walkie
 
-A new Flutter project.
+Walkie is a walking route planner app that helps you find the best route for your next walk. Simply select your starting point, set a time limit, and choose a finishing point (optional). Walkie will then generate a route that takes into account your preferences and the time you have available.
 
-## Getting Started
+**Features:**
 
-This project is a starting point for a Flutter application.
+* Find the best route for your next walk, whether it's a short stroll around the block or a long hike in the mountains.
+* Set a time limit for your walk and Walkie will generate route options according to your preferences.
+* View your route on a map and get turn-by-turn directions.
 
-A few resources to get you started if this is your first Flutter project:
+**Getting started:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repository.
+2. Create a new Flutter project.
+3. Add the Google Maps Flutter plugin to your project.
+4. Get a Google Maps API key and add it to your app.
+5. Run the app and start planning your walks!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Contributing:**
+
+We welcome contributions to Walkie. If you have any ideas or bug fixes, please feel free to create a pull request.
